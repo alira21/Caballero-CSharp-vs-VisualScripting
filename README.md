@@ -12,8 +12,8 @@ Juego 2D en Unity 6 donde el caballero debe recolectar todo el oro del mapa ante
 - **Contador, tiempo, victoria y derrota (C#):** `Scripts/GameManager.cs`
 - **Recolección del oro (Visual Scripting):** Script Machine en el prefab del oro. El grafo detecta al Player con On Trigger Enter 2D y Compare Tag, llama a `GameManager.SumarOro()` y destruye la moneda.
 
-## Grafo de Visual Scripting
-![Grafo de recolección](docs/grafo_recoleccion.png)
+## Grafo de Visual Scripting   
+[Ver capturas de los grafos de Visual Scripting](Grafos_VisualScripting_Alisson Armas.docx)
 
 ## Ventajas y desventajas
 | Criterio | C# | Visual Scripting |
