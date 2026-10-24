@@ -14,6 +14,9 @@ Juego 2D en Unity 6 donde el caballero debe recolectar todo el oro del mapa ante
 
 ## Grafo de Visual Scripting   
 [Ver capturas de los grafos de Visual Scripting](Grafos_VisualScripting_Alisson Armas.docx)
+![Grafo de recolección 1](grafo_recoleccion1.png)
+![Grafo de recolección 2](grafo_recoleccion2.png)
+![Grafo de recolección 3](grafo_recoleccion3.png)
 
 ## Ventajas y desventajas
 | Criterio | C# | Visual Scripting |
